@@ -675,7 +675,7 @@ footer h1::before {
 
   #scroll .scrollContainer {
     width: 200%;
-    animation: animations 10s linear infinite;
+  
   }
 
   #scroll img {
